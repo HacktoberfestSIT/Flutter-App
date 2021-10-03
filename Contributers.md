@@ -10,7 +10,7 @@ Welcome to the list of people who contributed to this repo 💥
 1. [Alok Kuamr](https://github.com/alokkumax)
 
 ## General Contributors below:
-1.
+1.[Pritam Paul](https://github.com/Prtmplish)
 2.
 3.
 4.
