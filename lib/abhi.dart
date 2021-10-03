@@ -1,30 +1,31 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 
-class AlokX extends StatelessWidget {
+class abhi extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
       home: Scaffold(
-        backgroundColor: Colors.blueGrey[900],
+        backgroundColor: Color(0xff123F6C),
         body: SafeArea(
             child: Column(
               mainAxisAlignment: MainAxisAlignment.center,
               children: <Widget>[
                 CircleAvatar(
                   radius: 70.0,
-                  backgroundImage: NetworkImage("https://avatars2.githubusercontent.com/u/59159355?s=460&u=b0158efe0e95f912c90b0a88e16e734187bff6c2&v=4"),
-                ),
+                  backgroundImage:  NetworkImage("https://avatars.githubusercontent.com/u/56017536?v=4"),
+            ),
+
                 SizedBox(height: 15,),
                 Text(
-                  'AlokKumax',
+                  'Abhilasha Gupta',
                   style: GoogleFonts.inter(fontSize: 33,
-                  color: Colors.white,
-                  fontWeight: FontWeight.w400),
-                  ),
+                      color: Colors.white,
+                      fontWeight: FontWeight.w400),
+                ),
                 SizedBox(height: 5,),
                 Text(
-                  'Flutter Developer',
+                  'Web Developer',
                   style: GoogleFonts.inter(fontSize: 20,
                       color: Colors.white60),
                 ),
@@ -45,7 +46,7 @@ class AlokX extends StatelessWidget {
                           color: Colors.blueGrey[900],
                         ),
                         title: Text(
-                          '+91 70012 52846',
+                          '+91 73849 99670',
                           style: TextStyle(
                             color: Colors.blueGrey[900],
                             fontFamily: 'Source Sans Pro',
@@ -62,7 +63,7 @@ class AlokX extends StatelessWidget {
                         color: Colors.blueGrey[900],
                       ),
                       title: Text(
-                        'alokkumax1@gmail.com',
+                        'abhilashax1@gmail.com',
                         style: TextStyle(
                             fontSize: 20.0,
                             color: Colors.blueGrey[900],

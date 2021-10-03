@@ -62,7 +62,7 @@ class deep extends StatelessWidget {
                         color: Colors.blueGrey[900],
                       ),
                       title: Text(
-                        'deepdhar2000@email.com',
+                        'deepdhar2000@gmail.com',
                         style: TextStyle(
                             fontSize: 20.0,
                             color: Colors.blueGrey[900],

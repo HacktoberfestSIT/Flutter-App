@@ -62,7 +62,7 @@ class aditya extends StatelessWidget {
                         color: Colors.blueGrey[900],
                       ),
                       title: Text(
-                        'adityasingh1@email.com',
+                        'adityasingh1@gmail.com',
                         style: TextStyle(
                             fontSize: 20.0,
                             color: Colors.blueGrey[900],
