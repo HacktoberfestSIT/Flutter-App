@@ -5,6 +5,7 @@ import 'package:swipetodlt/aditya.dart';
 import 'package:swipetodlt/alokx.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:swipetodlt/deep.dart';
+import 'package:swipetodlt/pritam.dart';
 
 void main() {
   runApp(new Directionality(textDirection: TextDirection.ltr, child: MyApp()));
@@ -29,6 +30,7 @@ class MyApp extends StatelessWidget {
         abhi(),
         aditya(),
         deep(),
+        pritam(),
         Container(child: Center(
           child: Text("Add Yourself as a App-Dev Contributer", style: GoogleFonts.inter(fontSize: 38,
             color: Colors.white,),),
