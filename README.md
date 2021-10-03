@@ -1,5 +1,5 @@
 ## Flutter App - Developers Profile
-Flutter Developer Profile Add, you can contribute by adding yourself as a developer.
+Flutter Developer Profile App. You can contribute by adding yourself as a developer.
 
 
 ## 😇About the repository
