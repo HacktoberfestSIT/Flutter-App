@@ -43,4 +43,4 @@ This Repository is based on Flutter App development, you can contribute in this 
 ### All the best and don't forget to Star ⭐ this repository. 😁
 
 <br><br>
-___Onwed and managed by [Abhilasha Gupta](https://github.com/alokkumax) 💗___
+___Onwed and managed by [Alok Kumar Sah](https://github.com/alokkumax) 💗___
