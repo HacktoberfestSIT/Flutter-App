@@ -38,9 +38,9 @@ This Repository is based on Flutter App development, you can contribute in this 
 - You can add more content to the given website by adding more pages or sections to it.
 - Or any kind of change you find valid for the betterment of the website.
 
-## 🔗 Website Hosted Link : [Visit Here](https://hacktoberfestsit.github.io/GYM-Website/hacktoberfest/index.html)
+
 
 ### All the best and don't forget to Star ⭐ this repository. 😁
 
 <br><br>
-___Onwed and managed by [Abhilasha Gupta](https://github.com/AbhilashaGupta16) 💗___
+___Onwed and managed by [Abhilasha Gupta](https://github.com/alokkumax) 💗___
