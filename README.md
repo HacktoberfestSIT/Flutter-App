@@ -3,7 +3,7 @@ Flutter Developer Profile App. You can contribute by adding yourself as a develo
 
 
 ## 😇About the repository
-This Repository is based on Flutter App development, you can contribute in this project,add your own developer profile with Pictures, Name, Contact and many more.
+This Repository is based on Flutter App development, you can contribute in this project, add your own developer profile with Pictures, Name, Contact and many more.
 
 ## 📢General Steps to follow while contributing:
 
