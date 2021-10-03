@@ -7,7 +7,7 @@ Welcome to the list of people who contributed to this repo 💥
 - ___for example: 16. Abhilasha Gupta (added Contact Section)___ <br></br>
 
 ## Repo Owner and Admins:
-1. [Abhilasha Gupta](https://github.com/AbhilashaGupta16)
+1. [Alok Kuamr](https://github.com/alokkumax)
 
 ## General Contributors below:
 1.
