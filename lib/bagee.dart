@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:swipetodlt/call_launcher.dart';
+import 'package:swipetodlt/model/call_launcher.dart';
 
 class bagee extends StatelessWidget {
   @override
